@@ -1,3 +1,7 @@
-# GitHub-Repo
+# Karen
 
-## ok this is another update what if i want to **add**
+![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
+
+Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
+
+Let me introduce myself.
